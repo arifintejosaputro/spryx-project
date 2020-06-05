@@ -1,2 +1,2 @@
 # spryx-project
-Repository to save accross spryx project
+Repository untuk menyimpan project-project Spryx development
